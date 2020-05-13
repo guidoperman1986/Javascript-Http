@@ -1,14 +1,14 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+This project was maded using webpack. You will find jokes of Chuck Norris, Images Uploads and much more.
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+You have to rebuild node modules.
 ```
 npm install
 ```
 
-Y para construir el build, recueren:
+And to make the build, remember:
 ```
 npm run build
 ```
